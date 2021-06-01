@@ -1,7 +1,7 @@
 # MetapopulationModel
- Metapopulation Model I worked on with Professor Benjamin Gilbert in 2012-2013
+ Metapopulation Model I worked on with Professor Benjamin Gilbert in 2012-2013.
 
- This code was written a long time ago; before I knew about version control or Tidyverse.
+ This code was written a long time ago; before I knew about version control or Tidyverse. Please see my other repositories for my more recent work. 
 
  The only things that matter in this repository are:
 
