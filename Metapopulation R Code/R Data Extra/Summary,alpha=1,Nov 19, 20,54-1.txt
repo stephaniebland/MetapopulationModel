@@ -1,0 +1,7 @@
+"  prop.area"	"eigen.patch.rm"	"eigen.islands"	"eigen.quality"
+""	"Min.   :0.1562  "	"Min.   :0.0001076  "	"Min.   :1.987e-05  "	"Min.   :6.459e-05  "
+""	"1st Qu.:0.3837  "	"1st Qu.:0.0013055  "	"1st Qu.:1.854e-04  "	"1st Qu.:3.898e-04  "
+""	"Median :0.6045  "	"Median :0.0023631  "	"Median :6.262e-04  "	"Median :9.674e-04  "
+""	"Mean   :0.5968  "	"Mean   :0.0019561  "	"Mean   :8.568e-04  "	"Mean   :1.093e-03  "
+""	"3rd Qu.:0.7949  "	"3rd Qu.:0.0026127  "	"3rd Qu.:1.353e-03  "	"3rd Qu.:1.673e-03  "
+""	"Max.   :0.9918  "	"Max.   :0.0026477  "	"Max.   :2.584e-03  "	"Max.   :2.605e-03  "

@@ -1,0 +1,2 @@
+"bunch.of.repeats"	"min.dist"	"second.dist"	"var.dist"	"mean.dist"	"num"	"Tx"	"Ty"	"size.dist"	"spatial.dist"	"mu"	"quad.size"	"num.of.quad"	"dispersion.index.points"	"dispersion.index.area.approx"
+1	1	1	551.943087368844	47.3330701850728	100	100	100	1	"r"	1	20	10	2.09584336058272	1.17047993490104
